@@ -2,4 +2,9 @@
 
 .DS_Store
 
+
+# node_module folder gitignore test para sa subfolder/subfolders
 /test-subfolder-for-node-modules/node_modules
+
+# node_module folder gitignore test para sa main folder
+/node_modules
