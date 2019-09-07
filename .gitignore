@@ -9,4 +9,4 @@
 /main1/submain1/subsubmain1/node_modules
 
 # node_module folder gitignore test para sa main folder
-/node_modules
+node_modules/
